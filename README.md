@@ -22,4 +22,4 @@ A fully responsive static website developed for Galeri Muaf, an independent art 
 - **GitHub Pages:** [fcokur.github.io/galerimuaf](https://fcokur.github.io/galerimuaf/)
 
 > ⚠️ **Note:**  
-> There may be differences between the production version and the GitHub Pages version due to environment-specific configurations, deployment methods, or ongoing updates. The production site reflects the most recent and actively maintained release.
+> There may be differences between the production version and the GitHub Pages version due to environment-specific configurations, deployment methods, or ongoing updates. The github pages site reflects the most recent and actively maintained release.
